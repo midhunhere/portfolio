@@ -1,7 +1,10 @@
+/**
+ * Configure your Gatsby site with this file.
+ *
+ * See: https://www.gatsbyjs.org/docs/gatsby-config/
+ */
+
 module.exports = {
-  siteMetadata: {
-    title: 'Developer Portfolio',
-  },
-  plugins: ['gatsby-plugin-react-helmet'],
-  pathPrefix: `/portfolio`,
+  /* Your site config here */
+  pathPrefix: "portfolio",
 }
